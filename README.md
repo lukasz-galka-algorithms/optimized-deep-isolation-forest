@@ -1,6 +1,20 @@
 # Optimized Deep Isolation Forest
 
-This repository contains the implementation of the **Optimized Deep Isolation Forest (ODIF)** algorithm.
+This repository contains the implementation of the **Optimized Deep Isolation Forest (ODIF)** algorithm, designed for unsupervised anomaly detection tasks.
+
+**Citation**: If you find this framework useful in your research or application, please cite the following publication:
+```bibtex
+@article{galkaOptimizedDeepIsolation2025,
+  author={Ga{\l}ka, {\L}ukasz},
+  journal={Pattern Recognition Letters}, 
+  title={Optimized Deep Isolation Forest}, 
+  year={2025},
+  volume={197},
+  number={},
+  pages={88-94},
+  doi={https://doi.org/10.1016/j.patrec.2025.07.014}
+}
+```
 
 ##  About
 - The implementation includes both:
